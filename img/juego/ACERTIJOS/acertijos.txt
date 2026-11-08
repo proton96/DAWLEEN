@@ -1,0 +1,250 @@
+================================================================================
+          CUESTIONARIO DE DESAFÍOS DE LÓGICA: EL RECETARIO PERDIDO
+================================================================================
+
+1. LAS VELAS Y EL VIENTO
+--------------------------------------------------------------------------------
+ENUNCIADO:
+Tienes una mesa con 10 velas encendidas. Entra una fuerte ráfaga de aire por la
+ventana y apaga 2 velas. Un rato después, otra ráfaga apaga una vela más. Para
+evitar que se sigan apagando, cierras la ventana. Si ninguna otra vela se apaga
+por el viento, ¿cuántas velas te quedarán al final del día?
+
+OPCIONES:
+[ ] A) Ninguna vela, con el paso de las horas se consumen todas.
+[ ] B) 7 velas.
+[X] C) 3 velas.
+[ ] D) 10 velas.
+
+EXPLICACIÓN / SOLUCIÓN:
+Opción correcta: C.
+Las 7 velas que permanecieron encendidas continuarán ardiendo hasta consumirse
+por completo y desaparecer. Las únicas que se conservarán intactas al final del
+día son las 3 que se apagaron a tiempo.
+
+
+================================================================================
+2. EL MISTERIO DEL NÚMERO DE HERMANOS
+--------------------------------------------------------------------------------
+ENUNCIADO:
+En una familia particular, cada hijo varón tiene exactamente el mismo número de
+hermanos que de hermanas. Sin embargo, cada una de las hijas tiene el doble de
+hermanos que de hermanas. ¿Cuántos chicos y cuántas chicas componen los hijos
+de esta familia?
+
+OPCIONES:
+[ ] A) 3 chicos y 2 chicas.
+[X] B) 4 chicos y 3 chicas.
+[ ] C) 4 chicos y 2 chicas.
+[ ] D) 5 chicos y 3 chicas.
+
+EXPLICACIÓN / SOLUCIÓN:
+Opción correcta: B.
+Hay 4 chicos y 3 chicas en total:
+- Cada hijo varón tiene 3 hermanos varones y 3 hermanas mujeres (mismo número).
+- Cada hija mujer tiene 2 hermanas mujeres y 4 hermanos varones (el doble).
+
+
+================================================================================
+3. EL ASCENSOR DEL RASCACIELOS
+--------------------------------------------------------------------------------
+ENUNCIADO:
+Un hombre vive en el piso 17 de un rascacielos. Cada mañana toma el ascensor en
+el piso 17 y baja directo hasta la planta baja para ir a trabajar. Cuando regresa
+por la tarde, entra al ascensor en la planta baja, pulsa el botón del piso 9 y
+sube a pie los 8 pisos restantes por las escaleras hasta su casa... excepto en
+dos situaciones: cuando llueve o cuando va acompañado de otros vecinos en el
+ascensor, casos en los que sube directamente hasta el piso 17. ¿Por qué lo hace?
+
+OPCIONES:
+[ ] A) Realiza ejercicio diario por prescripción médica, salvo si está mojado o acompañado.
+[ ] B) El ascensor requiere una llave especial por encima del piso 9 que solo llevan los vecinos.
+[X] C) Es una persona de baja estatura que no alcanza botones más altos que el piso 9; en días de lluvia usa su paraguas y si va acompañado pide ayuda.
+[ ] D) Es supersticioso con los pisos de dos dígitos cuando viaja en soledad.
+
+EXPLICACIÓN / SOLUCIÓN:
+Opción correcta: C.
+El hombre tiene una limitación de alcance por su baja estatura física. Solo llega
+con su brazo hasta el botón del piso 9. Cuando llueve lleva paraguas y usa la
+punta para pulsar el botón 17, o pide el favor a otra persona si no va solo.
+
+
+================================================================================
+4. EL CRUCE DEL RÍO CON PESOS LÍMITE
+--------------------------------------------------------------------------------
+ENUNCIADO:
+Dos adultos y dos niños necesitan cruzar un río caudaloso en una pequeña barca
+de remos. La barca solo soporta un peso máximo de 100 kg. Cada adulto pesa
+exactamente 100 kg y cada niño pesa exactamente 50 kg. ¿Cuál es el número mínimo
+de viajes que debe realizar la barca de una orilla a la otra para que todos
+crucen con éxito?
+
+OPCIONES:
+[ ] A) 5 viajes.
+[ ] B) 7 viajes.
+[X] C) 9 viajes.
+[ ] D) 11 viajes.
+
+EXPLICACIÓN / SOLUCIÓN:
+Opción correcta: C.
+Se requieren exactamente 9 trayectos entre orillas:
+1. Cruzan los 2 niños (100 kg).
+2. Regresa 1 niño con la barca.
+3. Cruza 1 adulto (100 kg).
+4. Regresa el otro niño.
+5. Cruzan los 2 niños nuevamente.
+6. Regresa 1 niño.
+7. Cruza el segundo adulto (100 kg).
+8. Regresa el otro niño.
+9. Cruzan ambos niños juntos por última vez.
+
+
+================================================================================
+5. EL LADRILLO EN LA BALANZA
+--------------------------------------------------------------------------------
+ENUNCIADO:
+Un ladrillo de construcción estándar pesa exactamente 1 kilogramo más medio
+ladrillo. ¿Cuánto pesan tres ladrillos iguales?
+
+OPCIONES:
+[ ] A) 3 kilogramos.
+[ ] B) 4.5 kilogramos.
+[X] C) 6 kilogramos.
+[ ] D) 9 kilogramos.
+
+EXPLICACIÓN / SOLUCIÓN:
+Opción correcta: C.
+Si planteamos la ecuación: 1 Ladrillo = 1 kg + 0.5 Ladrillos.
+Restando medio ladrillo a ambos lados: 0.5 Ladrillos = 1 kg.
+Por lo tanto, 1 ladrillo entero pesa 2 kg.
+Tres ladrillos pesan: 3 × 2 kg = 6 kg.
+
+
+================================================================================
+6. LAS CUATRO CARTAS LÓGICAS (PROBLEMA DE WASON)
+--------------------------------------------------------------------------------
+ENUNCIADO:
+Delante de ti hay cuatro cartas sobre la mesa: muestran respectivamente A, B,
+4 y 7. Se afirma la siguiente regla: "Si una carta tiene una vocal en una cara,
+entonces tiene un número par en la otra cara". ¿Cuáles son las cartas mínimas y
+exactas que debes voltear para comprobar sin ninguna duda si la regla es
+verdadera o falsa?
+
+OPCIONES:
+[ ] A) Únicamente la carta 'A'.
+[ ] B) La carta 'A' y la carta '4'.
+[X] C) La carta 'A' y la carta '7'.
+[ ] D) Las cuatro cartas ('A', 'B', '4' y '7').
+
+EXPLICACIÓN / SOLUCIÓN:
+Opción correcta: C.
+- La carta 'A' (vocal) debe revisarse para confirmar que detrás tenga un par (si tiene impar refuta la regla).
+- La carta '7' (impar) debe revisarse para confirmar que detrás NO tenga una vocal (si tuviese vocal refutaría la regla).
+- La carta 'B' es consonante (la regla no aplica).
+- La carta '4' ya es par; tener una consonante detrás no violaría la regla, por lo que voltearla no aporta información crítica.
+
+
+================================================================================
+7. LA PÍLDORA DEL NÁUFRAGO
+--------------------------------------------------------------------------------
+ENUNCIADO:
+Un náufrago ciego tiene en su poder cuatro pastillas idénticas en tamaño, forma,
+peso y textura: dos son de la medicina vital A y dos son de la medicina vital B.
+Para sobrevivir, debe tomar exactamente una pastilla A y una pastilla B hoy, y el
+resto mañana. Si toma una dosis incorrecta (por ejemplo, dos A o dos B juntas),
+morirá al instante. Al no poder ver los colores, ¿cómo puede tomar la dosis
+exacta hoy y mañana?
+
+OPCIONES:
+[ ] A) Triturar las cuatro pastillas juntas en un vaso con agua marina y beber la mitad hoy y la mitad mañana.
+[X] B) Partir cada una de las cuatro pastillas exactamente por la mitad, tomando una mitad de cada pastilla hoy y la otra mitad de cada una mañana.
+[ ] C) Ingerir dos pastillas al azar hoy confiando en la probabilidad y esperar los efectos secundarios.
+[ ] D) Medir la solubilidad en agua gota a gota para diferenciarlas antes de consumirlas.
+
+EXPLICACIÓN / SOLUCIÓN:
+Opción correcta: B.
+Al partir las 4 pastillas por la mitad y separar una mitad de cada una para hoy,
+obtendrá: (0.5 + 0.5) de medicina A y (0.5 + 0.5) de medicina B, lo que suma
+exactamente una pastilla A entera y una pastilla B entera cada día sin importar
+el orden en que estaban.
+
+
+================================================================================
+8. EL RELOJ DE ARENA Y EL TIEMPO JUSTO
+--------------------------------------------------------------------------------
+ENUNCIADO:
+Tienes únicamente dos relojes de arena: uno mide exactamente 7 minutos y el otro
+mide exactamente 4 minutos. Necesitas medir un intervalo exacto de 9 minutos para
+preparar una pócima sin cometer el menor fallo de tiempo. ¿Cómo lo logras con el
+menor número de pasos?
+
+OPCIONES:
+[ ] A) Iniciar el de 7 min, y cuando acabe poner el de 4 min deteniéndolo a ojo en la mitad.
+[ ] B) Poner el reloj de 7 min dos veces consecutivas y restar una vuelta del de 4 min.
+[X] C) Iniciar ambos relojes a la vez. Al vaciarse el de 4 min (quedan 3 min en el de 7), voltear de inmediato el de 4 min. Al vaciarse el de 7 min, al reloj pequeño le queda 1 min de arena arriba: en ese momento se inicia la pócima, dejando caer ese 1 min y volteando el de 4 min dos veces completas (1 + 4 + 4 = 9 min).
+[ ] D) Voltear el reloj de 4 min dos veces seguidas y calcular un cuarto del reloj de 7 min.
+
+EXPLICACIÓN / SOLUCIÓN:
+Opción correcta: C.
+Mide el residuo con precisión matemática:
+- Minuto 0: Inicias ambos relojes.
+- Minuto 4: El de 4 acaba. Se voltea de nuevo.
+- Minuto 7: El de 7 acaba. En el de 4 han corrido 3 minutos (le queda exactamente 1 min).
+- Se inicia la cocción: 1 min restante + dos tandas completas del reloj de 4 (4 + 4) = 9 minutos exactos.
+
+
+================================================================================
+9. LOS TRES INTERRUPTORES Y LA BOMBILLA
+--------------------------------------------------------------------------------
+ENUNCIADO:
+Te encuentras en la planta baja frente a un panel con tres interruptores normales
+(marcados como 1, 2 y 3), todos en posición de apagado. En el ático del edificio
+hay una única bombilla incandescente tradicional conectada a uno de esos tres
+interruptores. Desde donde estás es imposible ver si la luz está encendida o no.
+Tienes permiso de subir al ático una única vez. ¿Cómo averiguas con certeza cuál
+es el interruptor que controla la bombilla?
+
+OPCIONES:
+[ ] A) Encender el interruptor 1 y el 2 juntos; si no enciende la luz en el ático, deducir que es el 3.
+[X] B) Encender el interruptor 1 durante 10 minutos, apagarlo, encender de inmediato el 2 y subir al ático: si está encendida es el 2; si está apagada pero caliente es el 1; si está apagada y fría es el 3.
+[ ] C) Encender el interruptor 2, subir a verificar, y si está apagada bajar a pulsar el 1.
+[ ] D) Dejar los tres interruptores a medio pulsar y comprobar si emiten chispas en la caja de fusibles.
+
+EXPLICACIÓN / SOLUCIÓN:
+Opción correcta: B.
+Las bombillas incandescentes emiten calor residual. El calor permite almacenar
+un segundo estado distinguible del encendido/apagado, permitiendo evaluar las
+tres posibilidades en una única visita.
+
+
+================================================================================
+10. LA DIVISIÓN DEL TESORO PIRATA
+--------------------------------------------------------------------------------
+ENUNCIADO:
+Tres caballeros encuentran un cofre con monedas de oro en una cueva. Llegan al
+acuerdo de repartirlo a partes iguales al día siguiente y se van a dormir.
+- A medianoche, el primer caballero se despierta desconfiado. Divide las monedas
+  en 3 pilas iguales; sobra exactamente 1 moneda, la cual arroja al mar, y se
+  lleva su tercio escondiéndolo en su saco.
+- Más tarde, el segundo caballero se despierta con la misma desconfianza. Sin
+  saber lo que hizo el primero, junta el resto, lo divide en 3 pilas iguales;
+  vuelve a sobrar exactamente 1 moneda, la tira al mar y se lleva su tercio.
+- Finalmente, el tercer caballero se despierta antes del amanecer, divide lo que
+  queda en 3 pilas iguales, sobra 1 moneda, la tira al mar y se guarda su tercio.
+¿Cuál es el número mínimo positivo de monedas de oro que debía contener el cofre
+originalmente?
+
+OPCIONES:
+[ ] A) 19 monedas.
+[ ] B) 22 monedas.
+[X] C) 25 monedas.
+[ ] D) 31 monedas.
+
+EXPLICACIÓN / SOLUCIÓN:
+Opción correcta: C.
+Con 25 monedas:
+- Caballero 1: Tira 1 al mar (quedan 24), toma 8 y deja 16.
+- Caballero 2: Tira 1 al mar (quedan 15), toma 5 y deja 10.
+- Caballero 3: Tira 1 al mar (quedan 9), toma 3 y deja 6.
+En cada paso el número sobrante tras tirar una moneda es entero y múltiplo de 3.
+================================================================================

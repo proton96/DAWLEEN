@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "None",
+    "checkJs": false,
+    "lib": ["DOM", "DOM.Iterable", "ES2022"],
+    "skipLibCheck": true
+  },
+  "include": [
+    "front/js/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
+

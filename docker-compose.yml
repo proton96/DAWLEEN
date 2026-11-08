@@ -1,0 +1,13 @@
+services:
+  dawlloween:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: dawlloween:latest
+    container_name: dawlloween-server
+    restart: unless-stopped
+    ports:
+      - "8080:80"
+    volumes:
+      # Montaje en vivo para desarrollo (cambios en vivo sin reconstruir)
+      - .:/var/www/html:Z

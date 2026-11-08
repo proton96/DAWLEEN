@@ -1,0 +1,195 @@
+-- IMAGEN INTRODUCTORIA---
+FONDO: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/bienvenida-juego.jpeg
+
+Se pulsara un boton para pasar a la siguiente escena.
+
+INTRODUCCION.
+FONDO: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/ACERTIJOS/rock-inicio.jpeg
+IMAGEN DIALOGO: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/SPRITES DIALOGOS/rock-normal.png
+
+Hola , te doy la bienvenida a AtlantisTown. (Aparece 4 segundos esta imagen: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/atlantistown.jpeg)  Debe haber sido un viaje duro , hacia mal tiempo anoche. Me he tomado la molestia de conseguir la informacion del caso antes de tu llegada. Resulta que Bea la directora del instituto ha desaparecido esta semana , lleva 4 dias perdida. He estado en el instituto donde trabaja ella (Aparece 4 segundos imagen /home/josecarlosmartin/Escritorio/PORTFOLIO/img/instituto-dia.png). Resulta abrumador , el instituto se ve perfecto. Mañana es la noche de hallowen y Bea tiene un recetario de un antepasado que lleva custodiando años. Anoche dejaron el instituto con la tematica de hallowen y falta lo mas importante el Recetario. (Aparece 4 segundos imagen /home/josecarlosmartin/Escritorio/PORTFOLIO/img/instituto-noche.png). Me encontre con un curioso enmascarado que cuando corri tras el, me dejo una direccion y una hora exacta. Intuyo que quiere vernos alli, vamos a comenzar por eso. 
+
+
+TABERNA.
+FONDO: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/ACERTIJOS/encuentro-enigmayrock.jpeg
+IMAGEN DIALOGO ROCK: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/SPRITES DIALOGOS/rock-cabreado.png
+IMAGEN DIALOGO ENIGMA: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/SPRITES DIALOGOS/enigma.png
+
+Rock: Eres el de anoche!, cogi tu nota. Intuyo que sabes algo de la desaparicion de Bea y la relacion con la desaparicion del recetario.
+
+Enigma: Asi es, pero no es tan sencillo. Para poder darte la información, vas a tener que pasar dos retos. Si aceptas, te dire quien tiene a la chica y el recetario perdido
+
+Rock: No lo estaras diciendo enserio?, y porque crees que voy a acceder a eso? (la imagen de este dialogo sera esta /home/josecarlosmartin/Escritorio/PORTFOLIO/img/SPRITES DIALOGOS/rock-sorprendido.png)
+
+Enigma: Porque me necesitas , soy la unica persona que puede ayudarte. 
+
+Rock: De acuerdo, no te preocupes que no hay acertijo que se me resista. 
+
+---- APARECE ACERTIJO 1---
+FONDO: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/ACERTIJOS/1. Las velas y el viento.jpeg
+
+Tras superarlo , aparece el siguiente
+
+--- APARECE ACERTIJO 2---
+FONDO: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/ACERTIJOS/2. El misterio del número de hermanos.jpeg
+
+Tras superarlo aparece de nuevo dialogo.
+
+Enigma: Me has demostrado que eres capaz de hacerle cara... , esta bien . A quien buscais se encuentra en la profundidad del bosque de AtlantisTown. Debeis ir cuando caiga la noche.
+
+Rock: Gracias, conseguiremos resolver este misterio.
+
+
+
+BOSQUE ATLANTIS.
+
+FONDO ESCENA 1: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/ACERTIJOS/encuentro-monstruoyrock.jpeg
+FONDO ESCENA 2: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/ACERTIJOS/liberar-bea.jpeg
+FONDO ESCENA 3: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/ACERTIJOS/huida-monstruo-llegada-jack.jpeg
+
+IMAGEN DIALOGO ROCK:/home/josecarlosmartin/Escritorio/PORTFOLIO/img/SPRITES DIALOGOS/rock-cabreado.png
+IMAGEN DIALOGO MONSTRUO: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/SPRITES DIALOGOS/monstruo-normal.png
+IMAGEN DIALOGO BEA:/home/josecarlosmartin/Escritorio/PORTFOLIO/img/SPRITES DIALOGOS/bea-normal.png
+IMAGEN DIALOGO JACK: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/SPRITES DIALOGOS/jack-normal.png
+
+
+
+ESCENA1:
+
+Monstruo: Os esperaba con entusiasmo, Enigma cree que sois capaces de superar la prueba , pero tengo certeza de que no tendreis la astucia suficiente.
+
+Rock: Que eres exactamente??, has mencionado a Enigma? Seguro que te refieres al personaje de la taberna.
+
+Monstruo: Asi es, parece que tienes astucia.
+
+Rock: No me voy a andar con rodeos, donde tienes a Bea ? Y el recetario?
+
+Monstruo: Lo siento amigos mios pero si quereis que libere a Bea tendreis que pasar por 2 pruebas. Si teneis lo que hay que tener. 
+
+Rock: Por supuesto!
+
+Monstruo: De acuerdo, ese es el trato. Resuelve los dos retos.
+
+--- ACERTIJO 3---
+
+FONDO: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/ACERTIJOS/3. El ascensor del rascacielos.jpeg
+Una vez lo resuelvas pasas al siguiente
+
+--- ACERTIJO 4--- 
+FONDO: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/ACERTIJOS/4. El cruce del río con pesos límite.jpeg
+Una vez lo resuelves pasas a la siguiente escena.
+
+ESCENA 2: 
+
+BEA: No le hagais caso , no me soltara hasta que resolvais el acertijo secreto. (imagen de dialogo de bea ahora : /home/josecarlosmartin/Escritorio/PORTFOLIO/img/SPRITES DIALOGOS/bea-llorando.png )
+
+Monstruo: WAJAJWAJWJ, chica lista.
+
+Rock: COMO?¿¿¿ (imagen de dialogo de rock ahora : /home/josecarlosmartin/Escritorio/PORTFOLIO/img/SPRITES DIALOGOS/rock-sorprendido.png )
+
+-- ACERTIJO 5 ---
+FONDO: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/ACERTIJOS/5. EL LADRILLO EN LA BALANZA.jpeg
+
+Tras superarlo vuelves a dialogo
+
+BEA: INCREIBLE! , gracias. Pero no se ira tan facil.
+
+Rock: Esto ya, se acabo sueltala! YAAA!.
+
+Monstruo: PERO QUEEEE?¿¿¿¿¿ (imagen de dialogo ahora para mostruo: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/SPRITES DIALOGOS/monstruo-miedo.png)
+
+---PANTALLA NEGRA.---
+Se pasa a la siguiente escena.
+
+ESCENA 3:
+
+Jack: Eso es, huye!! , ya sabes lo que te iba a pasar maldito Spirit.
+
+Rock: Quien eres ?? 
+
+Jack: Perdona, que poco educado por mi parte. (imagen para este dialogo de jack: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/SPRITES DIALOGOS/jack-riendose.png)
+
+Jack: Soy Jack, el autor del recetario.
+
+Rock: COMO?¿ , pero si tu estas.. (imagen para este dialogo de rock: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/SPRITES DIALOGOS/rock-sorprendido.png)
+
+Jack: Muerto?, si. Pero ya me ves, tras mi muerte el recetario creo un vinculo especial con los señores del bosque y la ciudad. De manera que solo una vez al año puedo disfrutar de poder ver como el pueblo cocina mis recetas para HALLOWEN.
+
+Rock: Lamento decirte que el recetario se ha perdido, creiamos que lo habia robado esa cosa, junto con el secuestro de Bea. Puede ser que le hayas llamado Spirit? 
+
+Jack: Y asi es. Esa criatura es un Spirit, una criatura que salvaguarda el bosque de AtlantisTown. Pero eso era antes. Se ha corrompido el orden natural del bosque con la llegada de Enigma y Bea lo descubrio. 
+
+Rock : Que quieres decir ?
+
+Jack: Veras, Enigma es un trabajador de una empresa que quiere corromper el bosque, y Bea estaba al tanto de su plan para edificar un complejo turistico de AIRBNB. Cuando eso ocurrio el Spirit fue a por el, pero se confundio con Bea. 
+
+Jack: Pensaba que era ella la que queria corromper el bosque y como ademas es la portadora del recetario, decidi quitarle el recetario y deje que el Spirit la secuestrara. Pero tranquilo la acabo de rescatar.
+
+Rock: Entonces nos vas a devolver a Bea y el recetario?
+
+Jack: Asi es. Confio en ustedes pero no lo suficiente, para devolveros a la portadora del recetario y al recetario, teneis que superar..
+
+Rock: unas pruebas?¿ jajajajaj. (imagen de dialogo de rock : /home/josecarlosmartin/Escritorio/PORTFOLIO/img/SPRITES DIALOGOS/rock-feliz.png)
+
+Jack: Asi es, como lo has ..? 
+
+Rock: Ya me estoy acostumbrando a este pueblo.
+
+Jack: De acuerdo , sin mas demora. Que comience el reto final.
+
+--- ACERTIJO 6 ---
+FONDO: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/ACERTIJOS/6. LAS CUATRO CARTAS LÓGICAS .jpeg
+
+Tras pasarlo , pasamos al siguiente.
+
+--- ACERTIJO 7 ---
+FONDO: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/ACERTIJOS/7. LA PÍLDORA DEL NÁUFRAGO.jpeg
+
+Tras pasarlo , pasamos al siguiente.
+
+--- ACERTIJO 8 ---
+FONDO: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/ACERTIJOS/8. EL RELOJ DE ARENA Y EL TIEMPO JUSTO.jpeg
+
+Tras pasarlo , pasamos al siguiente
+
+--- ACERTIJO 9 ---
+FONDO:/home/josecarlosmartin/Escritorio/PORTFOLIO/img/ACERTIJOS/9. LOS TRES INTERRUPTORES Y LA BOMBILLA.jpeg
+
+Tras pasarlo , pasamos al siguiente
+
+--- ACERTIJO 10 ---
+FONDO: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/ACERTIJOS/10. LA DIVISIÓN DEL TESORO PIRATA.jpeg
+
+Tras pasarlo, pasamos al siguiente dialogo.
+
+
+FINAL.
+
+FONDO: /home/josecarlosmartin/Escritorio/PORTFOLIO/img/ACERTIJOS/fin-felizhistoria.jpeg
+IMAGEN DIALOGO JACK:/home/josecarlosmartin/Escritorio/PORTFOLIO/img/SPRITES DIALOGOS/jack-normal.png
+IMAGEN DIALOGO BEA:/home/josecarlosmartin/Escritorio/PORTFOLIO/img/SPRITES DIALOGOS/bea-feliz.png
+IMAGEN DIALOGO ROCK:/home/josecarlosmartin/Escritorio/PORTFOLIO/img/SPRITES DIALOGOS/rock-normal.png
+
+Jack: Bueno Bea , eres libre.
+
+Bea: He visto como habeis resuelto los acertijos de Jack, ha sido fantastico!! Gracias.
+
+Rock: Si .. , han sido duros. Pero ha merecido la pena. Jack creo que nos debes aun el recetario.
+
+Jack: Es correcto. Aqui teneis, el recetario. (Aparece esta imagen durante 4 segundos : /home/josecarlosmartin/Escritorio/PORTFOLIO/img/libro-recetas.png).
+
+Bea: el recetario... , hemos conseguido llegar a tiempo para HALLOWEN. Es la festividad especial del pueblo, en el instituto elaboramos junto con los chicos cada una de las recetas. 
+
+Rock: Es una suerte pero y tu Jack? Vas a aparecer ante el pueblo?
+
+Jack: Lamento mucho amigos pero mi viaje llega a su fin. Aunque me queda una cuenta pendiente con nuestro amigo ENIGMA. Buscare la forma de darle su merecido.
+
+Bea: Espero que asi sea. Estas empresas no van a destrozar nuestro querido pueblo. Gracias a todos chicos.
+
+Rock: Bueno, nuestro viaje acaba aqui. Amig@, nos veremos a la proxima.
+
+-- SALTA NOTIFICACION DE RECETAS DESBLOQUEADAS -- 
+-- FINALIZA EL JUEGO --
+-- REDIRECCION A INICIO DE LA WEB--
+
+
